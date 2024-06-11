@@ -11,8 +11,8 @@ The game is a fast-paced, action-packed fighting game where two players face off
 ## Installation/Deployment
 ```sh
 git clone https://github.com/wzy403/Two-player-Fighting-Game.git
-cd Two-player-Fighting-Game
-project.greenfoot
+cd Two-player-Fighting-Game/runprogram
+Two-player-Fighting-Game.gfar
 Click Run
 ```
 
@@ -38,7 +38,7 @@ Click Run
 1. **Movement and Jumping:** Both players can move left and right, and jump. Double pressing the jump key enables a double jump.
 2. **Attacking:** To attack, players must move close to their opponent and use their skill key. 
 3. **Floor Dynamics:** The floor at the center of the screen can be jumped on and will move, adding a strategic element to the game.
-4. **Damage Calculation:** Damage is based on the remaining mana and luck. The formula for damage is `(random value) * (player's mana left + 1) * 3`.
+4. **Damage Calculation:** Damage is based on the remaining mana and luck. The formula for damage is $$(random \ value) * (player's \ mana \ left + 1) * 3$$
 5. **Mana Management:** Each skill usage reduces mana by half. For example, if a player has 10 mana, the first skill usage will reduce it to 5, the next to 2, and so on.
 
 ## Features
