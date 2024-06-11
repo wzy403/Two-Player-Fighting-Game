@@ -57,6 +57,7 @@ __pycache__/
 
 # Greenfoot #
 *.ctxt
+project.greenfoot
 
 # Ruby #
 /.bundle/
