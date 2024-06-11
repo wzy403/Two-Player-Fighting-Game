@@ -10,13 +10,6 @@ The game is a fast-paced, action-packed fighting game where two players face off
 
 ## How To Play
 
-### Installation
-
-1. Visit the [release page](https://github.com/wzy403/Two-Player-Fighting-Game/releases/tag/v1.0.0).
-2. Download the `Two-player-Fighting-Game.gfar` file.
-3. Open the `Two-player-Fighting-Game.gfar` file with Greenfoot.
-4. Click Run.
-
 ### Controls
 
 **Player 1:**
@@ -39,6 +32,21 @@ The game is a fast-paced, action-packed fighting game where two players face off
 3. **Floor Dynamics:** The floor at the center of the screen can be jumped on and will move, adding a strategic element to the game.
 4. **Damage Calculation:** Damage is based on the remaining mana and luck. The formula for damage is $$(random \ value) * (player's \ mana \ left + 1) * 3$$
 5. **Mana Management:** Each skill usage reduces mana by half. For example, if a player has 10 mana, the first skill usage will reduce it to 5, the next to 2, and so on.
+
+## Installation
+
+### Prerequisites
+
+Before you can run the game, make sure you have the following software installed:
+
+- **Greenfoot**: You can download Greenfoot from the [official Greenfoot website](https://www.greenfoot.org/download).
+
+### Run Instructions
+
+1. Visit the [release page](https://github.com/wzy403/Two-Player-Fighting-Game/releases/tag/v1.0.0).
+2. Download the `Two-player-Fighting-Game.gfar` file.
+3. Open the `Two-player-Fighting-Game.gfar` file with Greenfoot.
+4. Click Run.
 
 ## Features
 
