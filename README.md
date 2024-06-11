@@ -8,15 +8,14 @@ This is a two-player fighting game developed using the Greenfoot platform. The g
 
 The game is a fast-paced, action-packed fighting game where two players face off in a dynamic arena. Players can move, jump, and use skills to attack their opponent. The game incorporates elements of strategy, as players must manage their mana to maximize damage output.
 
-## Installation/Deployment
-```sh
-git clone https://github.com/wzy403/Two-player-Fighting-Game.git
-cd Two-player-Fighting-Game/runprogram
-Two-player-Fighting-Game.gfar
-Click Run
-```
-
 ## How To Play
+
+### Installation
+
+1. Visit the [release page](https://github.com/wzy403/Two-Player-Fighting-Game/releases/tag/v1.0.0).
+2. Download the `Two-player-Fighting-Game.gfar` file.
+3. Open the `Two-player-Fighting-Game.gfar` file with Greenfoot.
+4. Click Run.
 
 ### Controls
 
