@@ -51,6 +51,24 @@ Click Run
 - **Jumping and Floor Dynamics:** Players can jump and interact with a moving floor in the center of the screen.
 - **Transparency Effects:** The central floor has dynamic transparency for a visually appealing effect.
 
+## Screenshots
+
+### Start Screen
+![Start Screen](./images/screenshots/start_screen.jpg)
+
+### Main Screen
+![Main Screen](./images/screenshots/main_screen.png)
+
+### Skill Demo
+#### Player 1 Skill
+![Player 1 Skill](./images/screenshots/p1_skill.png)
+
+#### Player 2 Skill
+![Player 2 Skill](./images/screenshots/p2_skill.png)
+
+### Game Over Screen
+![Game Over Screen](./images/screenshots/end_screen.png)
+
 ## Release History
 
 * 1.0.0
